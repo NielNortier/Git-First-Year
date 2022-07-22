@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1599125678 source:c:\users\nieln\onedrive\documents\nwu\first year\semester 2\cmpg121\c projects\prk1_35526734\main.cpp
+	<iostream>
+	<cmath>
+
+1628251626 source:d:\nwu\first year\semester 2\cmpg121\c projects\prk1_35526734\main.cpp
+	<iostream>
+	<math.h>
+

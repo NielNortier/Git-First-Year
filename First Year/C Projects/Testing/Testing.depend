@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603220024 source:c:\users\nieln\onedrive\documents\nwu\first year\semester 2\cmpg121\c projects\testing\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<iomanip>
+

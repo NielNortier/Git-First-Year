@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605021495 source:c:\users\nieln\onedrive\documents\nwu\first year\semester 2\cmpg121\c projects\nortier_35526734_test3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
